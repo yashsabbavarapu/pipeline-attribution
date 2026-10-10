@@ -1,4 +1,5 @@
 # Pipeline Attribution
+[![CI](https://github.com/yashsabbavarapu/pipeline-attribution/actions/workflows/ci.yml/badge.svg)](https://github.com/yashsabbavarapu/pipeline-attribution/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 
 Every GTM org eventually asks "which plays actually sourced pipeline". This engine answers it with no black box: every dollar of credit is a row that names the touch_id that earned it, the opportunity it came from, the model that assigned it, and the exact weight.
 
